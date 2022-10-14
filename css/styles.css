@@ -393,7 +393,7 @@ a {
   text-align: center;
 }
 .profesion {
-  margin-bottom: 0;
+  margin-bottom: 16px;
   padding: 0 0 0 0;
   color: var(--paragraph-text-color);
   font-weight: 400;
